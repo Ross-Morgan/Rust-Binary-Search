@@ -1,4 +1,4 @@
-fn binary_search(mut array: Vec<i32>, value: i32) -> u64{
+fn binary_search(mut array: Vec<i32>, value: i32) -> u64 {
     array.sort();
 
 
